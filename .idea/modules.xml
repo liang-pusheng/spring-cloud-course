@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" filepath="$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-registry/cloud-provider.iml" filepath="$PROJECT_DIR$/cloud-registry/cloud-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-provider/cloud-provider (1) (com.cloudprovider).iml" filepath="$PROJECT_DIR$/cloud-provider/cloud-provider (1) (com.cloudprovider).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-course.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-course.iml" />
+    </modules>
+  </component>
+</project>
