@@ -6,25 +6,25 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="cloud-provider (1) (com.cloudprovider)" />
         <module name="cloud-provider" />
         <module name="cloud-provider (2) (com.liangpusheng)" />
         <module name="cloud-consumer" />
+        <module name="cloud-register" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-consumer" target="1.8" />
       <module name="cloud-provider" target="1.8" />
-      <module name="cloud-provider (1) (com.cloudprovider)" target="1.8" />
       <module name="cloud-provider (2) (com.liangpusheng)" target="1.8" />
+      <module name="cloud-register" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cloud-consumer" options="-parameters" />
       <module name="cloud-provider" options="-parameters" />
-      <module name="cloud-provider (1) (com.cloudprovider)" options="-parameters" />
       <module name="cloud-provider (2) (com.liangpusheng)" options="-parameters" />
+      <module name="cloud-register" options="-parameters" />
     </option>
   </component>
 </project>
