@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud-zuul" />
         <module name="cloud-provider" />
         <module name="cloud-provider (2) (com.liangpusheng)" />
         <module name="cloud-consumer" />
@@ -17,6 +18,7 @@
       <module name="cloud-provider" target="1.8" />
       <module name="cloud-provider (2) (com.liangpusheng)" target="1.8" />
       <module name="cloud-register" target="1.8" />
+      <module name="cloud-zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -25,6 +27,7 @@
       <module name="cloud-provider" options="-parameters" />
       <module name="cloud-provider (2) (com.liangpusheng)" options="-parameters" />
       <module name="cloud-register" options="-parameters" />
+      <module name="cloud-zuul" options="-parameters" />
     </option>
   </component>
 </project>

@@ -3,13 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" filepath="$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" filepath="$PROJECT_DIR$/cloud-consumer/cloud-consumer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cloud-provider/cloud-provider.iml" filepath="$PROJECT_DIR$/cloud-provider/cloud-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-provider/cloud-provider.iml" filepath="$PROJECT_DIR$/cloud-provider/cloud-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-registry/cloud-provider.iml" filepath="$PROJECT_DIR$/cloud-registry/cloud-provider.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-registry/cloud-provider (2) (com.liangpusheng).iml" filepath="$PROJECT_DIR$/cloud-registry/cloud-provider (2) (com.liangpusheng).iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud-register/cloud-register.iml" filepath="$PROJECT_DIR$/cloud-register/cloud-register.iml" />
-      <module fileurl="file://$PROJECT_DIR$/cloud-register/cloud-register.iml" filepath="$PROJECT_DIR$/cloud-register/cloud-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zuul/cloud-zuul.iml" filepath="$PROJECT_DIR$/cloud-zuul/cloud-zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-zuul/cloud-zuul.iml" filepath="$PROJECT_DIR$/cloud-zuul/cloud-zuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-course.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-course.iml" />
     </modules>
   </component>

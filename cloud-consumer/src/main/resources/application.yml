@@ -10,3 +10,15 @@ eureka:
 feign:
   hystrix:
     enabled: true # 熔断器
+
+# 查看断路器是打开还是关闭(健康检查)
+# 访问http://ip:port/actuator/health 即可查看
+management:
+  endpoint:
+    health:
+      show-details: always
+  # 监控端点，得到是json字符串。可以用Hystrix dashboard可视化监控
+  endpoints:
+    web:
+      exposure:
+        include: 'hystrix.stream'
